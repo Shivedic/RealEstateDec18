@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Real Estate</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="network_msg">No network connection</string>
+
+    <!--left navigation drawer-->
+    <string name="menu_home">Home</string>
+    <string name="menu_property">All Properties</string>
+    <string name="menu_latest">Latest</string>
+    <string name="menu_favourite">Favourite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_communicate">Communicate</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_rate_app">Rate App</string>
+    <string name="menu_share_app">Share App</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_privacy">Privacy Policy</string>
+    <string name="menu_contact_us">Contact Us</string>
+    <string name="menu_add_properties">Add Properties</string>
+    <string name="menu_my_properties">My Properties</string>
+
+    <string name="no_item_found">No Item Found</string>
+    <string name="you_may">You may also like</string>
+
+    <string name="version">Version</string>
+    <string name="author">Author</string>
+    <string name="company">Company</string>
+    <string name="email">Email</string>
+    <string name="website">Website</string>
+    <string name="contact">Contact</string>
+    <string name="about">About</string>
+
+    <!--Login/Sign Up-->
+    <string name="name_login_lbl">Name</string>
+    <string name="name_login">Enter Name</string>
+    <string name="email_login_lbl">Email</string>
+    <string name="email_login">Enter Email</string>
+    <string name="password_login_lbl">Password</string>
+    <string name="password_login">Enter Password</string>
+    <string name="phone_login_lbl">Phone</string>
+    <string name="phone_login">Enter Phone</string>
+    <string name="login">LOG IN</string>
+    <string name="skip">Skip</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="no_account">DON\'T HAVE AN ACCOUNT?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="register">Register</string>
+    <string name="already_account">ALREADY HAVE AN ACCOUNT?</string>
+    <string name="enter_city">Enter City</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="submit">Submit</string>
+
+    <!-- connection message -->
+    <string name="conne_msg1">No Network Connection!!!</string>
+    <string name="conne_msg2">Please connect to working Internet connection</string>
+    <string name="nodata">No Data Found</string>
+    <string name="update">Update</string>
+    <string name="logout_msg">Are you sure you want to logout?</string>
+
+    <string name="share_msg">Hi,I would like to share Application which is used to find real estate around you free please download it from Google Play Store Free Here \n https://play.google.com/store/apps/details?id=</string>
+    <string name="login_msg">You need to login first</string>
+
+    <string name="favourite_add">Favourite has been saved</string>
+    <string name="favourite_remove">Favourite has been removed</string>
+
+    <string name="home_latest">Latest</string>
+    <string name="featured">Popular</string>
+    <string name="more">View All</string>
+
+    <string name="text_no_item">No item available.</string>
+    <string name="tag_line">Find Real Estate</string>
+
+
+    <string name="exit">Exit</string>
+    <string name="exit_msg">Are You Sure You Want To Quit?</string>
+
+    <string name="property_desc">Property Description</string>
+    <string name="property_amenities">Amenities</string>
+    <string name="property_floor_plan">Floor Plan</string>
+
+    <string name="rating">Rating</string>
+    <string name="thank_rating">Thanks for rating</string>
+
+    <string name="bed_bath">%1$s Bed, %2$s Bath, %3$s</string>
+
+    <string name="subject">Subject</string>
+    <string name="description">Description</string>
+    <string name="search_property">Search Property</string>
+    <string name="search_keyword">Enter Your Keyword</string>
+    <string name="property_details">Property Details</string>
+    <string name="property_gallery">Property Gallery</string>
+    <string name="property_location">Location</string>
+
+     <string name="select_type">Select Type</string>
+    <string name="add_properties_type">Add Type</string>
+    <string name="add_properties_purpose">Purpose</string>
+    <string name="add_properties_PropertyName">Property Name</string>
+    <string name="add_properties_PropertyDescription">Property Description</string>
+    <string name="add_properties_Phone">Phone</string>
+    <string name="add_properties_Address">Address</string>
+    <string name="add_properties_Latitude">Latitude</string>
+    <string name="add_properties_Longitude">Longitude</string>
+    <string name="add_properties_Bedrooms">Bedrooms</string>
+    <string name="add_properties_Bathrooms">Bathrooms</string>
+    <string name="add_properties_Area">Area</string>
+    <string name="add_properties_Amenities">Amenities</string>
+    <string name="add_properties_Price">Price</string>
+    <string name="add_properties_FeaturedImage">Featured Image</string>
+    <string name="add_properties_FloorPlanImage">Floor Plan Image</string>
+    <string name="add_properties_GalleryImage">Gallery Image</string>
+    <string name="add_properties_submit">Submit</string>
+    <string name="select_image">Select Image</string>
+
+    <!--if you want rtl change value of isRTL to true else false-->
+    <string name="isRTL">false</string>
+
+    <string-array name="purpose_array">
+        <item>Sale</item>
+        <item>Rent</item>
+    </string-array>
+</resources>
